@@ -1,0 +1,26 @@
+#Ad
+{
+    color:yellow;
+    background-color : red;
+    
+}
+
+body
+{
+background-image: linear-gradient(#9dc0db, hsl(258, 88%, 44%), #9fec21, #0a73aa, #006494, pink);
+}
+
+#image
+{
+    border-radius: 20px;
+    width: 200px;
+    height: 100px
+}
+
+#wee
+{
+    margin-bottom: 0px;
+    color: grey;
+    background-color :  #9dc0db;
+    
+}
